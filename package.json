@@ -2,7 +2,7 @@
   "name": "magiceightball",
   "displayName": "Magic 8-Ball",
   "description": "A Magic 8-Ball emulator for Visual Studio Code, for indecisive developers.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.73.0"
   },
