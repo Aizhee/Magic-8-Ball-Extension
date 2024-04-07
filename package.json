@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "github",
-    "url": ""
+    "url": "https://github.com/Aizhee/Magic-8-Ball-Extension"
   },
-  "homepage": "",
-  "bugs": "",
+  "homepage": "https://github.com/Aizhee/Magic-8-Ball-Extension?tab=readme-ov-file",
+  "bugs": "https://github.com/Aizhee/Magic-8-Ball-Extension/issues",
   "publisher": "Aizhe",
   "categories": [
     "Other"
