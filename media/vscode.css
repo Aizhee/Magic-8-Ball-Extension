@@ -1,0 +1,68 @@
+:root {
+	--container-padding: 20px;
+	--input-padding-vertical: 6px;
+	--input-padding-horizontal: 4px;
+	--input-margin-vertical: 4px;
+	--input-margin-horizontal: 0;
+}
+
+body {
+	padding: 0 var(--container-padding);
+	color: var(--vscode-foreground);
+	font-size: var(--vscode-font-size);
+	font-weight: var(--vscode-font-weight);
+	font-family: var(--vscode-font-family);
+	background-color: var(--vscode-activityBar-background);
+}
+
+ol,
+ul {
+	padding-left: var(--container-padding);
+}
+
+body > *,
+form > * {
+	margin-block-start: var(--input-margin-vertical);
+	margin-block-end: var(--input-margin-vertical);
+}
+
+*:focus {
+	outline-color: var(--vscode-focusBorder) !important;
+}
+
+a {
+	color: var(--vscode-textLink-foreground);
+}
+
+a:hover,
+a:active {
+	color: var(--vscode-textLink-activeForeground);
+}
+
+code {
+	font-size: var(--vscode-editor-font-size);
+	font-family: var(--vscode-editor-font-family);
+}
+
+/* Magic 8-Ball stuff */
+#Eightball {
+	cursor: pointer;
+}
+
+#touch-8-ball-container {
+	display: flex;
+	gap: 15px;
+	min-height: 60px;
+	height: 10px;
+	width: 100%;
+	margin-top: 15px;
+}
+
+#touch-8-ball-add, #touch-8-ball-reset {
+	display: block !important;
+	height: 100% !important;
+	width: 100% !important;
+	font-size: 2rem !important;
+	font-weight: normal !important;
+	text-align: start !important;
+}
