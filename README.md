@@ -8,9 +8,11 @@ Ever wanted to make your programming decisions with the same uncertainty you fee
 
 Harnessing the unparalleled power of Artificial Intelligence (ahem) trapped within this virtual magic 8-ball, we're here to give you answers to your burning programming questions. Because why make decisions based on logic when you can rely on randomness?
 
+[![SVGxw.gif](https://s12.gifyu.com/images/SVGxw.gif)](https://gifyu.com/image/SVGxw)
+
 ## Installation
 
-Get your dose of indecisiveness straight from the [VS Code marketplace]().
+Get your dose of indecisiveness straight from the [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=Aizhe.magiceightball).
 
 Once you've got VS Code open, navigate to the extension panel (`Ctrl+Shift+X` on Windows/Linux or `Cmd(⌘)+Shift+X` on MacOS) and search for the "Magic 8-Ball" extension. Click install and let the uncertainty begin!
 
