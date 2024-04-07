@@ -1,34 +1,26 @@
 # Magic 8-Ball
 
-A Magic 8-Ball emulator for Visual Studio Code, for indecisive developers.
+Ever wanted to make your programming decisions with the same uncertainty you feel in life? Introducing the Magic 8-Ball emulator for Visual Studio Code! Because who needs confidence when you can have ambiguity?
 
 [![SVG2a.png](https://s9.gifyu.com/images/SVG2a.png)](https://gifyu.com/image/SVG2a)
 
 ## Features
 
-Using the totally legit and powerful Artificial Intelligence inside this virtual magic 8-ball, we can answer your deepest and hardest questions in your programming sessions.  
+Harnessing the unparalleled power of Artificial Intelligence (ahem) trapped within this virtual magic 8-ball, we're here to give you answers to your burning programming questions. Because why make decisions based on logic when you can rely on randomness?
 
 ## Installation
 
-Install this extension from the [VS Code marketplace]().
+Get your dose of indecisiveness straight from the [VS Code marketplace]().
 
-OR
+Once you've got VS Code open, navigate to the extension panel (`Ctrl+Shift+X` on Windows/Linux or `Cmd(⌘)+Shift+X` on MacOS) and search for the "Magic 8-Ball" extension. Click install and let the uncertainty begin!
 
-With VS Code open, search for `Magic 8-Ball` in the extension panel (`Ctrl+Shift+X` on Windows/Linux or `Cmd(⌘)+Shift+X` on MacOS) and click install.
 
-OR
+## How to Use
 
-With VS Code open, launch VS Code Quick Open (`Ctrl+P` on Windows/Linux or `Cmd(⌘)+P` on MacOS), paste the following command, and press enter.
+Once you've succumbed to the whims of randomness by installing, summon the command palette (`Ctrl+Shift+P` on Windows/Linux or `Cmd(⌘)+Shift+P` on MacOS).
 
-`ext install Anteger.vscode-magiceightball`
-
-## How to magic 8-ball
-
-After installing, open the command palette with `Ctrl+Shift+P` on Windows/Linux or `Cmd(⌘)+Shift+P ` on MacOS.
-
-Run the "Start touching 8-ball" command (`vscode-magiceightball.start`) to see 8-ball in VS Code.
+Execute the "Start touching 8-ball" command (`vscode-magiceightball.start`) to bring the chaos of the 8-ball into your VS Code workspace.
 
 ## Extension Settings
 
-Configurable to view 8-ball in the explorer view or in a separate panel via `vscode-magiceightball.position`.
-
+Want to amplify the uncertainty? You can configure whether to view the 8-ball in the explorer view or in a separate panel via `vscode-magiceightball.position`. Because who needs stability when you can have a swirling vortex of unpredictability?
