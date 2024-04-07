@@ -1,4 +1,7 @@
+
 # Magic 8-Ball
+
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Aizhe.magiceightball?label=Visual%20Studio%20Marketplace&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Aizhe.magiceightball)     [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Aizhe.magiceightball?label=Installs&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Aizhe.magiceightball)     [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/stars/Aizhe.magiceightball?label=Rating&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Aizhe.magiceightball)
 
 Ever wanted to make your programming decisions with the same uncertainty you feel in life? Introducing the Magic 8-Ball emulator for Visual Studio Code! Because who needs confidence when you can have ambiguity?
 
