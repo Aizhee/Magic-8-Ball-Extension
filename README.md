@@ -24,7 +24,7 @@ Once you've got VS Code open, navigate to the extension panel (`Ctrl+Shift+X` on
 
 Once you've succumbed to the whims of randomness by installing, summon the command palette (`Ctrl+Shift+P` on Windows/Linux or `Cmd(⌘)+Shift+P` on MacOS).
 
-Execute the "Start touching 8-ball" command (`vscode-magiceightball.start`) to bring the chaos of the 8-ball into your VS Code workspace.
+Execute the "Start Asking" command (`vscode-magiceightball.start`) to bring the chaos of the 8-ball into your VS Code workspace.
 
 ## Extension Settings
 

@@ -32,6 +32,13 @@ export function activate(context: vscode.ExtensionContext) {
         ),
     );
 	
+    const isFirstActivation = context.globalState.get<boolean>('firstActivation', true);
+
+    if (isFirstActivation) {
+        vscode.window.showInformationMessage('Let the randomness begin. 🎱');
+        context.globalState.update('firstActivation', false);
+    }
+
     updateExtensionPositionContext();
 
 	context.subscriptions.push(
@@ -185,12 +192,20 @@ class MagicEightBallWebViewContainer {
 						"Test Failed.",
 						":q",
 						"Catch and throw e.",
-
 					];
+					
+				  var seed = Date.now(); 
+				  Math.random = seededRandom.bind(null, seed);
+
 				const randomIndex = Math.floor(Math.random() * predictions.length);
 				return predictions[randomIndex];
 				}
 
+				function seededRandom(seed) {
+					var x = Math.sin(seed) * 10000;
+					return x - Math.floor(x);
+				}
+				  
             </script>
         </body>
         </html>`;
