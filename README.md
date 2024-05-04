@@ -29,3 +29,5 @@ Execute the "Start Asking" command (`vscode-magiceightball.start`) to bring the 
 ## Extension Settings
 
 Want to amplify the uncertainty? You can configure whether to view the 8-ball in the explorer view or in a separate panel via `vscode-magiceightball.position`. Because who needs stability when you can have a swirling vortex of unpredictability?
+##
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O0XNVKI)
